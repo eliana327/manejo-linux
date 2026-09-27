@@ -1,7 +1,7 @@
 $ whoami   ¿quien soy aqui?
-$ hostmane   ¿como se llama este servidor?
+$ hostmane   ¿como se llama este servidor?ec2user
 $ pwd      ¿en que carpeta estoy?
-$ uname-a  ¿en que sistema es
+$ uname-a  ¿en que sistema es? linux
 $ uptime    ¿ hace cuanto esta encendida?
 $ df -h      ¿cuanto disco tengo?
  $ free -h  ¿ cuanta memoria ram?
