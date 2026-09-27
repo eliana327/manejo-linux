@@ -1,0 +1,8 @@
+$ whoami   ¿quien soy aqui?
+$ hostmane   ¿como se llama este servidor?
+$ pwd      ¿en que carpeta estoy?
+$ uname-a  ¿en que sistema es
+$ uptime    ¿ hace cuanto esta encendida?
+$ df -h      ¿cuanto disco tengo?
+ $ free -h  ¿ cuanta memoria ram?
+ $ nproc   ¿ cuantos procesadores?
